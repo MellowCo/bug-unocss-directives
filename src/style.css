@@ -1,0 +1,6 @@
+@unocss all;
+
+
+.uno-class2 {
+  @apply w-200rpx h-200rpx bg-blue;
+}
